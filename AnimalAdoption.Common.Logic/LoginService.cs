@@ -15,7 +15,7 @@ namespace AnimalAdoption.Common.Logic
                 "icecream",
                 "basketball",
                 "orange",
-                "placeholder"
+                "rabid"
             };
         }
 
