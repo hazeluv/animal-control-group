@@ -7,9 +7,9 @@ namespace AnimalAdoption.Common.Logic
     public class AnimalService
     {
         public Animal[] ListAnimals => new Animal[] {
-            new Animal { Id = 1, Name = "Sedi", Age = 50, Description = "Soft natured" },
-            new Animal { Id = 2, Name = "Metamorph", Age = 50, Description = "Under a lot of pressure" },
-            new Animal { Id = 3, Name = "Igno", Age = 50, Description = "Shiny and glasslike" },
+            new Animal { Id = 1, Name = "Trash Panda", Age = 2, Description = "Like a panda, but a lot smaller" },
+            new Animal { Id = 2, Name = "Rocket", Age = 1, Description = "Slim build, but packs a hell of a punch" },
+            new Animal { Id = 3, Name = "Sky Racoon", Age =1, Description = "A night-crawler, and lover of shiny things" },
         };
     }
 }
